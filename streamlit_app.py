@@ -3,7 +3,7 @@ from snowflake. snowpark. functions import col
 from snowflake.snowpark.context import get_active_session
 
 # Write directly to the app
-st.title(f" :cup_with_straw:  Costumize Your Smoothie :cup_with_straw: {st.__version__}")
+st.title(f"My Parents New Healty Diner")
 st.write(
   """Choose the fruits you want in your costum Smoothie
   """
